@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="JEU421/JEU421.vcxproj" />
+  <Project Path="JEU421_etape2/JEU421_etape2.vcxproj" />
 </Solution>
